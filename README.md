@@ -7,6 +7,6 @@
 ### Olá! 👋
 
 - 🌎 São Paulo / Brasil
-- 💼 Desenvolvedor full-stack na TOTVS
+- 💼 Engenheiro de Software
 - 📚 Estudando desenvolvimento web
 - 🎓 Cursando Engenharia da Computação na Impacta
